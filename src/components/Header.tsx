@@ -11,7 +11,7 @@ const Header = () => {
             <a href="/">
               {" "}
               <img
-                src="public\assets/logo.png"
+                src="assets/logo.png"
                 alt="Hirex Logo"
                 className="h-8"
               />

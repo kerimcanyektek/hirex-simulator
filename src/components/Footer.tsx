@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="md:col-span-2">
             <div className="flex items-center mb-4">
               <img 
-                src="public\assets/logo.png" 
+                src="assets/logo.png" 
                 alt="Hirex Logo" 
                 className="h-8"
               />
